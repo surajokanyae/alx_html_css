@@ -1,0 +1,727 @@
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+.logo-icon {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 67.02px;
+height: 29.46px;
+}
+.courses {
+position: absolute;
+top: calc(50% - 7.5px);
+left: 0%;
+}
+.pricing {
+position: absolute;
+top: calc(50% - 7.5px);
+left: 43.59%;
+}
+.login {
+position: absolute;
+top: calc(50% - 7.5px);
+left: 85.47%;
+}
+.menu {
+position: absolute;
+top: 0px;
+left: 869.41px;
+width: 234px;
+height: 15px;
+overflow: hidden;
+}
+.header {
+position: relative;
+width: 100%;
+height: 29.46px;
+text-align: left;
+font-size: 12px;
+color: #fff;
+font-family: 'Source Sans Pro';
+}
+.background-icon {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: cover;
+}
+.get-schooled {
+position: absolute;
+top: calc(50% - 326.5px);
+left: 26.18%;
+font-size: 120px;
+}
+.smiles {
+position: absolute;
+top: calc(50% - 185.5px);
+left: 41.18%;
+}
+.grin {
+position: absolute;
+top: calc(50% - 185.5px);
+left: 48.89%;
+}
+.laugh {
+position: absolute;
+top: calc(50% - 185.5px);
+left: 55.35%;
+}
+.button-background {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+border-radius: 22px;
+background-color: #c271ff;
+}
+.register-for-free {
+position: absolute;
+top: calc(50% - 9px);
+left: 12.35%;
+font-weight: 600;
+}
+.button {
+position: absolute;
+height: 4.03%;
+width: 11.25%;
+top: 40.33%;
+right: 44.38%;
+bottom: 57.64%;
+left: 44.38%;
+box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+overflow: hidden;
+font-size: 14px;
+}
+.from-the-pros1 {
+font-weight: 300;
+}
+.from-the-pros {
+color: #fff;
+}
+.learn-from-the-container {
+position: absolute;
+top: calc(50% + 84.5px);
+left: 41.94%;
+font-size: 32px;
+color: #c271ff;
+}
+.henry-hughes {
+position: absolute;
+width: 100%;
+top: calc(50% + 41.5px);
+left: 0%;
+line-height: 27px;
+font-weight: 900;
+display: inline-block;
+}
+.h-smiles {
+position: absolute;
+width: 100%;
+top: calc(50% + 70.5px);
+left: 0%;
+font-size: 16px;
+line-height: 24px;
+display: inline-block;
+}
+.avatar-icon {
+position: absolute;
+height: 63.29%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 36.71%;
+left: 0%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: cover;
+}
+.pro-4 {
+position: absolute;
+height: 100%;
+width: 14.87%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 85.13%;
+overflow: hidden;
+}
+.pro-3 {
+position: absolute;
+height: 100%;
+width: 14.87%;
+top: 0%;
+right: 28.64%;
+bottom: 0%;
+left: 56.49%;
+overflow: hidden;
+}
+.pro-2 {
+position: absolute;
+height: 100%;
+width: 14.87%;
+top: 0%;
+right: 56.49%;
+bottom: 0%;
+left: 28.64%;
+overflow: hidden;
+}
+.pro-1 {
+position: absolute;
+height: 100%;
+width: 14.87%;
+top: 0%;
+right: 85.13%;
+bottom: 0%;
+left: 0%;
+overflow: hidden;
+}
+.pros {
+position: absolute;
+height: 21.68%;
+width: 70.07%;
+top: 69.35%;
+right: 14.86%;
+bottom: 8.97%;
+left: 15.07%;
+font-size: 18px;
+}
+.main-part {
+position: relative;
+width: 100%;
+height: 1093px;
+overflow: hidden;
+text-align: center;
+font-size: 16px;
+color: #fff;
+font-family: 'Source Sans Pro';
+}
+.background-icon {
+position: absolute;
+top: 0px;
+left: 1px;
+width: 1440px;
+height: 392px;
+}
+.avatar-icon {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 160px;
+height: 160px;
+object-fit: cover;
+}
+.weather-presenter {
+position: absolute;
+top: calc(50% + 45px);
+left: 0%;
+line-height: 33.6px;
+}
+.person-name {
+position: absolute;
+top: calc(50% + 11px);
+left: 0%;
+line-height: 33.6px;
+}
+.those-tutorials-ar {
+position: absolute;
+width: 100%;
+top: 0%;
+left: 0%;
+line-height: 33.6px;
+display: inline-block;
+}
+.text {
+position: absolute;
+top: 2px;
+left: 213px;
+width: 730px;
+height: 158px;
+overflow: hidden;
+}
+.testimonial {
+position: absolute;
+top: 108px;
+left: 260px;
+width: 943px;
+height: 160px;
+}
+.part-1-testimonials {
+position: relative;
+width: 100%;
+height: 392px;
+text-align: left;
+font-size: 22px;
+color: #fff;
+font-family: 'Source Sans Pro';
+}
+
+.most {
+font-weight: 300;
+}
+.span {
+color: #fff;
+}
+.popular {
+color: #c271ff;
+}
+.most-popular-tutoria-container {
+position: absolute;
+top: calc(50% - 225px);
+left: 39.25%;
+font-size: 32px;
+text-align: center;
+color: #071629;
+}
+.background {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.18);
+}
+.avatar-icon {
+position: absolute;
+height: 8.96%;
+width: 11.76%;
+top: 77.91%;
+right: 83.14%;
+bottom: 13.13%;
+left: 5.1%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: cover;
+}
+.phillip-massey {
+position: absolute;
+top: calc(50% + 95.5px);
+left: 21.96%;
+line-height: 27px;
+font-weight: 600;
+}
+.min {
+position: absolute;
+top: calc(50% + 129.5px);
+left: 78.04%;
+line-height: 27px;
+font-weight: 600;
+text-align: right;
+}
+.rating-icon {
+position: absolute;
+height: 4.48%;
+width: 41.96%;
+top: 91.04%;
+right: 52.94%;
+bottom: 4.48%;
+left: 5.1%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.lorem-ipsum-dolor {
+position: absolute;
+width: 94.9%;
+top: calc(50% + 32.1px);
+left: 5.1%;
+line-height: 24px;
+color: rgba(7, 22, 41, 0.5);
+display: inline-block;
+}
+.diagonal-smile {
+position: absolute;
+top: calc(50% + 4.5px);
+left: 5.1%;
+font-size: 16px;
+color: #071629;
+}
+.preview-icon {
+position: absolute;
+height: 45.97%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 54.03%;
+left: 0%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: cover;
+}
+.play-icon {
+position: absolute;
+height: 19.1%;
+width: 25.1%;
+top: 13.43%;
+right: 37.25%;
+bottom: 67.46%;
+left: 37.65%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.tuto-1 {
+position: absolute;
+height: 74.44%;
+width: 20.77%;
+top: 25.56%;
+right: 74.51%;
+bottom: 0%;
+left: 4.72%;
+overflow: hidden;
+}
+.tuto-2 {
+position: absolute;
+height: 74.44%;
+width: 20.77%;
+top: 25.56%;
+right: 51.22%;
+bottom: 0%;
+left: 28.01%;
+overflow: hidden;
+}
+.tuto-3 {
+position: absolute;
+height: 74.44%;
+width: 20.77%;
+top: 25.56%;
+right: 28.01%;
+bottom: 0%;
+left: 51.22%;
+overflow: hidden;
+}
+.tuto-4 {
+position: absolute;
+height: 74.44%;
+width: 20.77%;
+top: 25.56%;
+right: 4.8%;
+bottom: 0%;
+left: 74.43%;
+overflow: hidden;
+}
+.part-2-tutorials {
+position: relative;
+width: 100%;
+height: 450px;
+overflow: hidden;
+text-align: left;
+font-size: 14px;
+color: #c271ff;
+font-family: 'Source Sans Pro';
+}
+
+
+.background-icon {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.membership1 {
+font-weight: 100;
+}
+.membership {
+color: #C271FF;
+}
+.free-membership {
+position: absolute;
+top: calc(50% - 81px);
+left: 42.85%;
+font-size: 32px;
+color: #c271ff;
+}
+.button-background {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+border-radius: 22px;
+background-color: #c271ff;
+}
+.register-for-free {
+position: absolute;
+top: calc(50% - 9px);
+left: 13.27%;
+font-weight: 600;
+}
+.button {
+position: absolute;
+height: 8.76%;
+width: 11.25%;
+top: 80.88%;
+right: 44.38%;
+bottom: 10.36%;
+left: 44.38%;
+box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+overflow: hidden;
+}
+.lorem-ipsum-dolor {
+position: absolute;
+width: 82.49%;
+top: calc(50% + 24.5px);
+left: 8.75%;
+line-height: 26px;
+display: inline-block;
+}
+.lorem-ipsum {
+position: absolute;
+width: 99.61%;
+top: calc(50% - 14.5px);
+left: 0.19%;
+font-size: 18px;
+line-height: 26px;
+font-weight: 600;
+display: inline-block;
+}
+.smile-icon {
+position: absolute;
+height: 23.11%;
+width: 16.99%;
+top: 0.02%;
+right: 41.49%;
+bottom: 76.88%;
+left: 41.52%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.dot-1 {
+position: absolute;
+height: 30.48%;
+width: 17.85%;
+top: 33.47%;
+right: 70.76%;
+bottom: 36.06%;
+left: 11.39%;
+overflow: hidden;
+}
+.lorem-ipsum-dolor1 {
+position: absolute;
+width: 85.99%;
+top: calc(50% + 24.5px);
+left: 7%;
+line-height: 26px;
+display: inline-block;
+}
+.dot-2 {
+position: absolute;
+height: 30.48%;
+width: 17.85%;
+top: 33.47%;
+right: 51.04%;
+bottom: 36.06%;
+left: 31.11%;
+overflow: hidden;
+}
+.lorem-ipsum-dolor2 {
+position: absolute;
+width: 83.66%;
+top: calc(50% + 24.5px);
+left: 8.17%;
+line-height: 26px;
+display: inline-block;
+}
+.dot-3 {
+position: absolute;
+height: 30.48%;
+width: 17.85%;
+top: 33.47%;
+right: 31.25%;
+bottom: 36.06%;
+left: 50.9%;
+overflow: hidden;
+}
+.dot-4 {
+position: absolute;
+height: 30.48%;
+width: 17.85%;
+top: 33.47%;
+right: 11.39%;
+bottom: 36.06%;
+left: 70.76%;
+overflow: hidden;
+}
+.part-3-free-membership {
+position: relative;
+width: 100%;
+height: 502px;
+overflow: hidden;
+text-align: center;
+font-size: 14px;
+color: #fff;
+font-family: 'Source Sans Pro';
+}
+
+.faq {
+position: absolute;
+top: calc(50% - 353.5px);
+left: 44.24%;
+font-size: 60px;
+font-weight: 300;
+color: #071629;
+text-align: center;
+}
+.lorem-ipsum-dolor {
+position: absolute;
+width: 100%;
+top: calc(50% - 71px);
+left: 0%;
+line-height: 24px;
+display: inline-block;
+}
+.how-does-this {
+position: absolute;
+top: calc(50% - 121px);
+left: 0%;
+font-size: 16px;
+color: #071629;
+}
+.q-1 {
+position: absolute;
+height: 34.23%;
+width: 38.04%;
+top: 21.07%;
+right: 61.96%;
+bottom: 44.7%;
+left: 0%;
+overflow: hidden;
+}
+.q-3 {
+position: absolute;
+height: 34.23%;
+width: 38.04%;
+top: 65.77%;
+right: 61.96%;
+bottom: 0%;
+left: 0%;
+overflow: hidden;
+}
+.q-2 {
+position: absolute;
+height: 34.23%;
+width: 38.04%;
+top: 21.07%;
+right: 0%;
+bottom: 44.7%;
+left: 61.96%;
+overflow: hidden;
+}
+.q-4 {
+position: absolute;
+height: 34.23%;
+width: 38.04%;
+top: 65.77%;
+right: 0%;
+bottom: 0%;
+left: 61.96%;
+overflow: hidden;
+}
+.part-4-faq {
+position: relative;
+width: 100%;
+height: 707px;
+overflow: hidden;
+text-align: left;
+font-size: 14px;
+color: rgba(7, 22, 41, 0.5);
+font-family: 'Source Sans Pro';
+}
+
+.background {
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0%;
+right: 0%;
+bottom: 0%;
+left: 0%;
+background-color: #071629;
+}
+.smileschool {
+position: absolute;
+top: calc(50% - 9px);
+left: 32.54%;
+}
+.smile-icon {
+position: absolute;
+height: 98.2%;
+width: 21.53%;
+top: 0.08%;
+right: 78.12%;
+bottom: 1.72%;
+left: 0.35%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.logo {
+position: absolute;
+height: 12.05%;
+width: 11.74%;
+top: 38.15%;
+right: 76.81%;
+bottom: 49.8%;
+left: 11.46%;
+overflow: hidden;
+}
+.smileschool-2020 {
+position: absolute;
+top: calc(50% + 70.5px);
+left: 46.67%;
+font-size: 12px;
+font-family: 'Source Sans Pro';
+opacity: 0.35;
+mix-blend-mode: normal;
+}
+.social-icons {
+position: absolute;
+height: 12.05%;
+width: 9.03%;
+top: 36.14%;
+right: 16.67%;
+bottom: 51.81%;
+left: 74.31%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.part-5-footer {
+position: relative;
+width: 100%;
+height: 249px;
+overflow: hidden;
+text-align: left;
+font-size: 18px;
+color: #fff;
+font-family: Coiny;
+}
