@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>subscription form</title>
+</head>
+<body>
+    <form action="/my-handling-form-page" method="post">
+        <fieldset>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        <label for="subscription_preference">Subscription Preference:</label>
+        <div>
+          <input type="radio" name="subscription_preference" value="monthly" required>
+          <label for="subscription_preference_monthly">Monthly</label>
+          <input type="radio" name="subscription_preference" value="yearly" required>
+          <label for="subscription_preference_yearly">Yearly</label>
+        </div>
+        <br>
+        <input type="submit" value="Subscribe">
+        </fieldset>
+      </form>
+      
+</body>
+</html>
